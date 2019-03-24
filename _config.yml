@@ -57,5 +57,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+<<<<<<< HEAD
 
 theme: jekyll-theme-cayman
+=======
+>>>>>>> parent of 07d7423... Revert "blog init"
