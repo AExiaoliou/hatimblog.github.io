@@ -1,1 +1,1 @@
-[CLICK HERE](https://aexiaoliou.github.io)
+[click here to go](https://aexiaoliou.github.io)
