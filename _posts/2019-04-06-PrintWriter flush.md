@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "PrintWriter flush"
+title : "PrintWriter的刷新,历史的又一次惨痛教训"
 date : 2019-4-6 17:35:56 +0800
 categories: java
 ---
@@ -15,4 +15,4 @@ out.flush();
 ```java
 out.printf("");
 ```
-<font color = "RED"> ACCEPTED </font>
+<font color = "GREEN"> <b>ACCEPTED</b> </font>
