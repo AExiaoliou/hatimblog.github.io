@@ -149,10 +149,12 @@ blockquote {
  */
 pre,
 code {
+  font-family: 'Hatim', 'Courier New', Courier, monospace;
+  color: #A9B7C6;
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #2B2B2B;
 }
 
 code {
