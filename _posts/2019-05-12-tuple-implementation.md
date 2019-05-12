@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "tuple的具体实现"
+title : "tuple从具体实现到光速劝退"
 date : 2019-5-12 00:28:29 +0800
 categories: cpp
 ---
