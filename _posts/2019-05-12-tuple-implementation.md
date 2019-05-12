@@ -23,7 +23,6 @@ public:
 		{	// copy construct
 		}
 };
-// 删除了容器，Tag，测试代码以及一大堆分离重载和特化
 ```
 关注一开始的几行和注释
 ```cpp
@@ -32,7 +31,9 @@ class tuple<This, Rest...> : private tuple<Rest...> // recursive tuple definitio
 // 也就是说tuple其实是递归实现的
 ```
 然后是一段长达1000多行的实现，emmmmm  
-哦豁劝退
-
+哦豁劝退  
+  
+  
+待补
 
 
