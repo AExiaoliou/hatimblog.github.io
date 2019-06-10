@@ -1,0 +1,2 @@
+- better highlight rouge.
+- find a great background color

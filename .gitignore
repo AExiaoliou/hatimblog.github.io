@@ -1,4 +1,5 @@
-_site
-.vscode
+.bundle
 .sass-cache
-.jekyll-metadata
+Gemfile.lock
+_site
+*.gem
