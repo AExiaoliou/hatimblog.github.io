@@ -29,7 +29,7 @@ struct name { \
         c2_name = p.second; \
         return (*this); \
     } \
-	operator pair<Type1, Type2>() { return make_pair(Type1(c1_name), Type2(c2_name)); }
+    operator pair<Type1, Type2>() { return make_pair(Type1(c1_name), Type2(c2_name)); }
 }
 MAKE_NODE(P, x, y);
 #undef MAKE_NODE
