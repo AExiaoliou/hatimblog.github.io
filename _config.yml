@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: AExiaoliou's blog
+author: AExiaoliou
+email: aexiaoliou@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  World will not be changed by myself,
+  but I can change my blog.
+  And then butterfly will flap her wings.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,9 +15,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    # twitter: null
+    github:  AExiaoliou
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
