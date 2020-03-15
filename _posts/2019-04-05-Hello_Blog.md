@@ -2,7 +2,7 @@
 layout: post
 title: "Hello Blog!"
 date: 2019-04-05 22:28:30 +0800
-categories: Hello
+categories: None
 ---
 
 拖着拖着个人博客终于算是能用了  
