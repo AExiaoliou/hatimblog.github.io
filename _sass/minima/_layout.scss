@@ -1,4 +1,21 @@
 /**
+* Custom css
+*/
+.post-content img[alt~="@50%"] {
+  zoom: 50%;
+}
+
+.post-content img[alt~="@33%"] {
+  zoom: 33%;
+}
+
+.post-content img[alt~="@20%"] {
+  zoom: 20%;
+}
+
+
+
+/**
  * Site header
  */
 .site-header {
