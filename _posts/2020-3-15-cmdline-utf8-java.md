@@ -13,6 +13,9 @@ categories: java
 
 加一个系统全局变量 `JAVA_TOOL_OPTIONS`  
 值是 `-Dfile.encoding=UTF-8`  
+或者在 shell 启动脚本里面定义也一样  
+Powershell: `echo '$JAVA_TOOL_OPTIONS = "-Dfile.encoding=UTF-8"' | Out-File -Append $PROFILE`  
+*sh :`echo 'JAVA_TOOL_OPTIONS = "-Dfile.encoding=UTF-8"' >> ~/<yourshrc>`  
 
 完  
 <br>
